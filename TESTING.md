@@ -19,8 +19,7 @@ This document provides comprehensive testing instructions for both the backend A
 ### 1. Database Setup
 
 ```bash
-# Start PostgreSQL with PostGIS
-cd backend
+# Start PostgreSQL with PostGIS (from repository root)
 docker-compose up -d
 
 # Or use existing PostgreSQL
