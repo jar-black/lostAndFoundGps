@@ -112,7 +112,7 @@ npm install
 # Create database
 createdb lost_and_found
 
-# Or using Docker:
+# Or using Docker (from repository root):
 docker-compose up -d
 ```
 
